@@ -17,3 +17,4 @@ char letter = str[1];         // 'b'
 
 foreach (char c in "123") 
   Console.Write (c + ",");    // 1,2,3,
+
